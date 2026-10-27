@@ -12,9 +12,9 @@
 
 ---
 
-<h2 align="center">⚡ TECH STACK</h2>
+<h2 align="center"> TECH STACK</h2>
 
-<h3 align="center">💻 Software Development</h3>
+<h3 align="center"> Software Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,express,tailwind,mongodb,prisma,git,github,vscode&theme=dark" alt="Software technologies" />
@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<h2 align="center"> FEATURED PROJECTS</h2>
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View DealMind" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <h3>🎓 ClassVibe</h3>
       <p>Interactive Classroom · Real-Time Communication</p>
       <a href="https://github.com/Sai-Rakshith04/ClassVibe">
@@ -55,7 +55,7 @@
 </table>
 
 ---
-<h2 align="center">📊 MOST USED LANGUAGES</h2>
+<h2 align="center"> MOST USED LANGUAGES</h2>
 
 <div align="center">
 
