@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7C3AED,100:FF4ECD&height=190&section=header&text=SAI%20RAKSHITH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20%7C%20HARDWARE%20%7C%20AI&descAlignY=58&descSize=16" width="100%" alt="Sai Rakshith — Software, Hardware and AI" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7C3AED,100:FF4ECD&height=220&section=header&text=Sai%20Rakshith&fontFamily=Dancing%20Script&fontSize=64&fontColor=FF2D95&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20%7C%20HARDWARE%20%7C%20AI&descAlignY=68&descSize=16" width="100%" alt="Sai Rakshith — Software, Hardware and AI" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sai-Rakshith04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sai-rakshith/)
@@ -51,28 +52,16 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <h3>⚙️ FIR Filter Design</h3>
-      <p>Digital Signal Processing · Critical Path Analysis</p>
-    </td>
-    <td align="center">
-      <h3>🧠 Melanoma Classification</h3>
-      <p>Machine Learning · Support Vector Machine</p>
-    </td>
-  </tr>
 </table>
 
 ---
-
 <h2 align="center">📊 MOST USED LANGUAGES</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Rakshith04&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Language%20Breakdown" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Rakshith04&layout=normal&theme=merko&hide_border=true&langs_count=4&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 
 </div>
-
 ---
 
 <div align="center">
