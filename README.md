@@ -33,18 +33,18 @@
 
 ---
 
-<h2 align="center"> FEATURED PROJECTS</h2>
+<h2 align="center">FEATURED PROJECTS</h2>
 
 <table>
   <tr>
-    <td width="60%" align="center">
+    <td width="50%" align="center" style="padding: 18px; background-color: #151B2B; border: 1px solid #7C3AED; border-radius: 12px;">
       <h3>🛍️ DealMind</h3>
       <p>Deals · Coupons · Price Discovery</p>
       <a href="https://github.com/Sai-Rakshith04/DealMind">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View DealMind" />
       </a>
     </td>
-    <td width="100%" align="center">
+    <td width="50%" align="center" style="padding: 18px; background-color: #101F2B; border: 1px solid #00D4FF; border-radius: 12px;">
       <h3>🎓 ClassVibe</h3>
       <p>Interactive Classroom · Real-Time Communication</p>
       <a href="https://github.com/Sai-Rakshith04/ClassVibe">
