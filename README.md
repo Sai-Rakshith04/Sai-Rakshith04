@@ -22,7 +22,7 @@
 <h3 align="center">🔌 Hardware & Engineering</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,matlab,linux&theme=dark" alt="Hardware and engineering technologies" />
+  <img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" alt="Hardware and engineering technologies" />
 </p>
 
 <p align="center">
