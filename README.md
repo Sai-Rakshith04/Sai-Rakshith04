@@ -62,7 +62,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Rakshith04&layout=normal&theme=merko&hide_border=true&langs_count=4&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 
 </div>
----
 
 <div align="center">
 
