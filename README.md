@@ -35,7 +35,7 @@ I'm an Electronics and Communication Engineering graduate-in-progress who enjoys
 ### Hardware & Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,linux&theme=dark" alt="Hardware and engineering technologies" />
+  <img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" alt="Hardware and engineering technologies" />
 </p>
 
 <p align="left">
