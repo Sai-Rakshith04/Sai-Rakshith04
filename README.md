@@ -29,13 +29,13 @@ I'm an Electronics and Communication Engineering graduate-in-progress who enjoys
 ### Software Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,express,tailwind,mongodb,postgres,prisma,git,github,vscode&theme=dark" alt="Software development technologies" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,express,tailwind,mongodb,prisma,git,github,vscode&theme=dark" alt="Software development technologies" />
 </p>
 
 ### Hardware & Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,matlab,linux&theme=dark" alt="Hardware and engineering technologies" />
+  <img src="https://skillicons.dev/icons?i=VMware Workstation,KiCad,arduino,matlab&theme=dark" alt="Hardware and engineering technologies" />
 </p>
 
 ---
