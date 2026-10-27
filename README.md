@@ -2,7 +2,7 @@
 # Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,express,tailwind,mongodb,postgres,prisma,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,mongodb,prisma,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ## GitHub Stats
