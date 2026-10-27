@@ -62,16 +62,16 @@ An interactive classroom application with real-time communication and classroom 
 [Explore my repositories →](https://github.com/Sai-Rakshith04?tab=repositories)
 
 ---
-
 ## `04` — Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Rakshith04&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Most Used Languages from public repositories"
-  />
+  <a href="https://github.com/Sai-Rakshith04?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Rakshith04&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Language%20Breakdown&cache_seconds=86400"
+      alt="Most Used Languages"
+    />
+  </a>
 </p>
-
 ---
 
 ## `05` — Current Interests
