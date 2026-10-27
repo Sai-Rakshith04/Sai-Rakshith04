@@ -37,7 +37,7 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <h3>🛍️ DealMind</h3>
       <p>Deals · Coupons · Price Discovery</p>
       <a href="https://github.com/Sai-Rakshith04/DealMind">
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
----
+
 <h2 align="center"> MOST USED LANGUAGES</h2>
 
 <div align="center">
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-### <span>⚡</span> DESIGN · BUILD · INNOVATE
+### <span></span> DESIGN · BUILD · INNOVATE
 
 <sub>Electronics × Software × Intelligent Systems</sub>
 
