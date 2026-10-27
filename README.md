@@ -37,7 +37,7 @@
 
 <table>
   <tr>
-    <td width="100%" align="center">
+    <td width="60%" align="center">
       <h3>🛍️ DealMind</h3>
       <p>Deals · Coupons · Price Discovery</p>
       <a href="https://github.com/Sai-Rakshith04/DealMind">
