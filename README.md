@@ -61,16 +61,6 @@ An interactive classroom application with real-time communication and classroom 
 
 [Explore my repositories →](https://github.com/Sai-Rakshith04?tab=repositories)
 
-### FIR Filter Design
-**Academic project:** Design of a very high-speed FIR filter using precise critical path analysis.
-
-**Focus:** Digital signal processing · Digital design
-
-### Melanoma Detection
-**Academic project:** Melanoma skin cancer detection and classification using a Support Vector Machine.
-
-**Focus:** Machine learning · Image classification
-
 ---
 
 ## `04` — Most Used Languages
