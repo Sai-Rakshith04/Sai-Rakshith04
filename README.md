@@ -1,22 +1,14 @@
-
 # Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,mongodb,prisma,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,express,tailwind,mongodb,postgres,prisma,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
-## GitHub Stats
+## Most Used Languages
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sai-Rakshith04&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Rakshith04&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Rakshith04&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
     alt="Most Used Languages"
-    height="170"
   />
 </p>
-
